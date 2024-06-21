@@ -12,7 +12,7 @@ public class BrowserActivities {
 		driver.get("https://google.com");
 		driver.navigate().to("https://rahulshettyacademy.com");
 		driver.navigate().back();
-		driver.navigate().forward();
+		driver.navigate().forward(); //work
 		
 
 		
